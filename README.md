@@ -1,4 +1,3 @@
 # demomergeconflict
 
-
-Gregory General
+Gregory General, I like DMIT 2018
